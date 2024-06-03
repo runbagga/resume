@@ -17,7 +17,7 @@ export const RESUME_DATA = {
     social: [
       {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/",
+        url: "https://www.linkedin.com/in/arun-bagga-11b8152a1/",
         icon: LinkedInIcon,
       },
     ],
